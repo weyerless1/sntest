@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="e72ba57b139a1b00cb92b7a66144b08c" sys_domain="global" table="x_ahho_sntest_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>925b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>165b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>965b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>1a5b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>9a5b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a_test_1_string</element>
+            <position>5</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>1e5b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a_test_2_ref</element>
+            <position>6</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>9e5b61bb139a1b00cb92b7a66144b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>125b61bb139a1b00cb92b7a66144b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>925b61bb139a1b00cb92b7a66144b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>9</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>165b61bb139a1b00cb92b7a66144b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>10</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:12:30</sys_created_on>
+            <sys_id>965b61bb139a1b00cb92b7a66144b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_sntest_table" sys_domain="global" view="Default view">e72ba57b139a1b00cb92b7a66144b08c</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:12:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_ahho_sntest_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2018-06-01 18:11:45</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>e72ba57b139a1b00cb92b7a66144b08c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_sntest_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sntest" source="x_ahho_sntest">074a29b7139a1b00cb92b7a66144b08a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="sntest">074a29b7139a1b00cb92b7a66144b08a</sys_scope>
+            <sys_update_name>sys_ui_section_e72ba57b139a1b00cb92b7a66144b08c</sys_update_name>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2018-06-01 18:11:45</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
