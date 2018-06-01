@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-06-01 18:07:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9f4aa17b139a1b00cb92b7a66144b095</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_ahho_sntest_table.x_ahho_sntest.user</sys_name>

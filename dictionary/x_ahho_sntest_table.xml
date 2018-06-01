@@ -2,6 +2,6 @@
 <database>
     <element extends="task" label="Sntest Table" max_length="40" name="x_ahho_sntest_table" type="collection">
         <element label="A test 1 string" mandatory="true" max_length="100" name="a_test_1_string" type="string"/>
-        <element label="A test 2 reference" mandatory="true" max_length="32" name="a_test_2_ref" reference="sys_user" type="reference"/>
+        <element label="A test 2 reference" mandatory="true" max_length="32" name="a_test_2_ref" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
     </element>
 </database>
