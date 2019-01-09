@@ -39,7 +39,7 @@
         <message/>
         <message_html><![CDATA[<p>Fun to INNOVATE!</p>
 <p>&nbsp;</p>
-<p>LESS LESS LESS MORE MORE!</p>]]></message_html>
+<p>LESS LESS LESS MORE MORE! OK</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>SNTEST for skipped rec</name>
@@ -61,7 +61,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>27b6a85713fa6300cb92b7a66144b01e</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>SNTEST for skipped rec</sys_name>
         <sys_overrides/>
         <sys_package display_value="sntest" source="x_ahho_sntest">074a29b7139a1b00cb92b7a66144b08a</sys_package>
@@ -70,7 +70,7 @@
         <sys_scope display_value="sntest">074a29b7139a1b00cb92b7a66144b08a</sys_scope>
         <sys_update_name>sysevent_email_action_27b6a85713fa6300cb92b7a66144b01e</sys_update_name>
         <sys_updated_by>TLWeyer</sys_updated_by>
-        <sys_updated_on>2019-01-09 18:25:05</sys_updated_on>
+        <sys_updated_on>2019-01-09 18:33:58</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
