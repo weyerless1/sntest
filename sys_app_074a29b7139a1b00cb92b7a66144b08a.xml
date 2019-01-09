@@ -16,21 +16,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_ahho_sntest</source>
-        <store_correlation_id>REPOAPP0000095422</store_correlation_id>
+        <store_correlation_id>REPOAPP0000095425</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-06-01 18:07:54</sys_created_on>
         <sys_id>074a29b7139a1b00cb92b7a66144b08a</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>38</sys_mod_count>
         <sys_updated_by>TLWeyer</sys_updated_by>
-        <sys_updated_on>2019-01-09 21:03:24</sys_updated_on>
+        <sys_updated_on>2019-01-09 21:06:02</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="">0f4aa17b139a1b00cb92b7a66144b04c</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.06</version>
+        <version>1.1.07</version>
     </sys_app>
 </record_update>
