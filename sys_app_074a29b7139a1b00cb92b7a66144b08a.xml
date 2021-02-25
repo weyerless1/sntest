@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category>none</license_category>
+        <license_definition/>
         <license_model>none</license_model>
         <logo/>
         <menu display_value="">834aa17b139a1b00cb92b7a66144b049</menu>
@@ -16,21 +21,22 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_ahho_sntest</source>
-        <store_correlation_id>REPOAPP0000095599</store_correlation_id>
+        <store_correlation_id>REPOAPP0000095600</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2018-06-01 18:07:54</sys_created_on>
         <sys_id>074a29b7139a1b00cb92b7a66144b08a</sys_id>
-        <sys_mod_count>56</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_updated_by>TLWeyer</sys_updated_by>
-        <sys_updated_on>2019-01-10 17:49:42</sys_updated_on>
+        <sys_updated_on>2021-02-25 17:51:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
         <user_role display_value="">0f4aa17b139a1b00cb92b7a66144b04c</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.16</version>
+        <version>1.1.17</version>
     </sys_app>
 </record_update>
