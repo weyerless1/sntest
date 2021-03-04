@@ -12,7 +12,7 @@
         </condition>
         <content_type>text/html</content_type>
         <default_interval/>
-        <description>Tesing log of skipped record msg 333</description>
+        <description>Tesing log of skipped record msg 33355</description>
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
@@ -61,7 +61,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>471c1ba51beae890a4bcb95e034bcb6c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Skipped record test</sys_name>
         <sys_overrides/>
         <sys_package display_value="sntest" source="x_ahho_sntest">074a29b7139a1b00cb92b7a66144b08a</sys_package>
@@ -70,10 +70,10 @@
         <sys_scope display_value="sntest">074a29b7139a1b00cb92b7a66144b08a</sys_scope>
         <sys_update_name>sysevent_email_action_471c1ba51beae890a4bcb95e034bcb6c</sys_update_name>
         <sys_updated_by>TLWeyer</sys_updated_by>
-        <sys_updated_on>2021-02-25 19:06:08</sys_updated_on>
+        <sys_updated_on>2021-03-04 16:22:57</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
-        <type>email</type>
+        <type>vcalendar</type>
         <user/>
         <user_field/>
         <weight>0</weight>
